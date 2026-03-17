@@ -10,6 +10,7 @@
 ## The Problem
 
 Postpartum hemorrhage (PPH) is a leading cause of maternal mortality — and it's largely preventable with early risk identification. Traditional EHR risk scoring is static and reactive. This agent models the clinical decision process as a dynamic, stateful workflow.
+PPH Scoring System within the Epic (EHR) is based upon a batch job that evaluates at 10-15 minute intervals and relies heavily upon 30+ rules that need to constantly be maintained.
 
 ## What It Does
 
